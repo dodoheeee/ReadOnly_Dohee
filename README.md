@@ -3,7 +3,7 @@
 
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=HELLO,STRANGER&animation=blinking&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=Hi,There I'm Dohee&animation=blinking&fontSize=40&fontColor=ffffff" />
 <br/>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
