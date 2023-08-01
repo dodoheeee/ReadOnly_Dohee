@@ -1,6 +1,6 @@
 # ReadOnly_Dohee
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=HELLO,STRANGER&animation=twinkling&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=HELLO,STRANGER&animation=blinking&fontSize=40&fontColor=ffffff" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
