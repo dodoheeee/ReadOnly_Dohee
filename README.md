@@ -2,9 +2,9 @@
 
 
 
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=HELLO,STRANGER&animation=blinking&fontSize=40&fontColor=ffffff" />
 <br/>
-<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div align="center">
