@@ -3,7 +3,7 @@
 
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=Hi,There I'm Dohee&animation=blinking&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3e01ff&height=150&section=header&text=Hi,ThereI'mDohee&animation=blinking&fontSize=40&fontColor=ffffff" />
 <br/>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -38,7 +38,9 @@
 	
 	
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=dodoheeee&show_icons=true&theme=highcontrast"/><br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dodoheeee&show_icons=true&theme=highcontrast"/>
+	<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodoheeee&size_weight=0.5&count_weight=0.5"/>
 </div>
 
