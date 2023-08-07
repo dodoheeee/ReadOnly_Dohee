@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f99a9a,100:5254FE&height=250&section=header&text=Hi,%20There%20I'm%20Dohee&desc=Web%20Front-end%20Developer&animation=fadeIn&fontSize=40&fontColor=ffffff&fontAlignY=40" />
 <br/>
 <div align=center>
-	
+	<h3>빠른시간안에 Core가 단단한 사람으로 돌아오겠습니다👋🏻</h3>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
