@@ -3,7 +3,7 @@
 
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f99a9a,100:5254FE&height=250&section=header&text=Hi,%20There%20I'm%20Dohee&desc=Web%20Front-end%20Developer&animation=fadeIn&fontSize=40&fontColor=ffffff&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f99a9a,100:5254FE&height=250&section=header&text=Hello,%20Stranger%20I'm%20Dohee&desc=Web%20Front-end%20Developer&animation=fadeIn&fontSize=40&fontColor=ffffff&fontAlignY=40" />
 <br/>
 <div align=center>
 	<h5>빠른 시간 안에 Core가 단단한 사람이 되겠습니다.👋🏻</h5>
